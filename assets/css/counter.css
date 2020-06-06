@@ -1,0 +1,96 @@
+/* .counter {
+  background-color: darkslategray;
+  text-align: center;
+  color: white;
+}
+.employees,
+.customer,
+.design,
+.order {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+.counter-count {
+  font-size: 18px;
+  background-color: #1bac91;
+  border-radius: 50%;
+  position: relative;
+  color: white;
+  text-align: center;
+  line-height: 92px;
+  width: 92px;
+  height: 92px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  display: inline-block;
+}
+
+.employee-p,
+.customer-p,
+.order-p,
+.design-p {
+  font-size: 24px;
+  color: #000000;
+  line-height: 34px;
+} */
+/* .container {
+  margin-top: 100px;
+} */
+
+.counter-box {
+  display: block;
+  color: white;
+  padding: 40px 20px 37px;
+  text-align: center;
+  background: #1bac91;
+}
+
+.counter-box p {
+  margin: 5px 0 0;
+  padding: 0;
+  color: lightgray;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.counter-box i {
+  font-size: 60px;
+  margin: 0 0 15px;
+  color: white;
+}
+
+.counter {
+  display: block;
+  font-size: 32px;
+  font-weight: 700;
+  color: white;
+  line-height: 28px;
+}
+/*
+.counter-box.colored {
+  background: #1bac91;
+} */
+
+body {
+  background-color: black;
+  color: white;
+}
+.contact .php-email-form {
+  background-color: black;
+}
+.form-control {
+  background-color: #191919;
+  color: white;
+}
+.contact .info {
+  background-color: black;
+  color: white;
+}
+.contact .info i {
+  background-color: black;
+}
+.description {
+  color: #191919;
+}
